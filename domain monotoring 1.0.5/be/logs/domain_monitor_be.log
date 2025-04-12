@@ -1,0 +1,111 @@
+2025-02-13 00:04:22,492 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:04:26,953 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:04:31,147 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:04:32,324 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:04:32,325 - domain_monitor_be - DEBUG - Saved 1 domains for user baha
+2025-02-13 00:04:36,203 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:04:36,203 - domain_monitor_be - DEBUG - Loaded 1 domains for user baha
+2025-02-13 00:21:38,788 - domain_monitor_be - INFO - Created cron job for user baha at 00:22:00
+2025-02-13 00:22:00,017 - domain_monitor_be - INFO - Starting domain monitoring for user: baha
+2025-02-13 00:22:00,019 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:22:00,021 - domain_monitor_be - DEBUG - Loaded 1 domains for user baha
+2025-02-13 00:22:01,113 - domain_monitor_be - DEBUG - Checked domain: google.com - Status: Up
+2025-02-13 00:22:01,113 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:22:01,119 - domain_monitor_be - DEBUG - Saved 1 domains for user baha
+2025-02-13 00:22:01,119 - domain_monitor_be - INFO - Completed domain monitoring for user: baha
+2025-02-13 00:24:04,219 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:24:04,219 - domain_monitor_be - DEBUG - Loaded 1 domains for user baha
+2025-02-13 00:24:10,475 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:24:10,475 - domain_monitor_be - DEBUG - Loaded 1 domains for user baha
+2025-02-13 00:24:14,821 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:24:14,827 - domain_monitor_be - DEBUG - Saved 4 domains for user baha
+2025-02-13 00:24:20,365 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:24:20,368 - domain_monitor_be - DEBUG - Loaded 4 domains for user baha
+2025-02-13 00:24:37,467 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:24:37,469 - domain_monitor_be - DEBUG - Loaded 4 domains for user baha
+2025-02-13 00:24:37,471 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:24:37,476 - domain_monitor_be - DEBUG - Saved 3 domains for user baha
+2025-02-13 00:24:39,516 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:24:39,517 - domain_monitor_be - DEBUG - Loaded 3 domains for user baha
+2025-02-13 00:24:45,573 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:24:45,575 - domain_monitor_be - DEBUG - Loaded 3 domains for user baha
+2025-02-13 00:24:51,134 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:24:51,138 - domain_monitor_be - DEBUG - Loaded 3 domains for user baha
+2025-02-13 00:24:56,111 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:24:56,111 - domain_monitor_be - DEBUG - Loaded 3 domains for user baha
+2025-02-13 00:24:56,803 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:24:56,808 - domain_monitor_be - DEBUG - Saved 4 domains for user baha
+2025-02-13 00:25:04,042 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:25:04,044 - domain_monitor_be - DEBUG - Loaded 4 domains for user baha
+2025-02-13 00:25:04,874 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:25:04,875 - domain_monitor_be - DEBUG - Saved 5 domains for user baha
+2025-02-13 00:25:08,542 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:25:08,545 - domain_monitor_be - DEBUG - Loaded 5 domains for user baha
+2025-02-13 00:25:14,362 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:25:14,368 - domain_monitor_be - DEBUG - Loaded 5 domains for user baha
+2025-02-13 00:25:14,370 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:25:14,378 - domain_monitor_be - DEBUG - Saved 4 domains for user baha
+2025-02-13 00:25:16,422 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:25:16,424 - domain_monitor_be - DEBUG - Loaded 4 domains for user baha
+2025-02-13 00:25:33,868 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:25:33,871 - domain_monitor_be - DEBUG - Loaded 4 domains for user baha
+2025-02-13 00:25:43,361 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:25:43,361 - domain_monitor_be - DEBUG - Loaded 4 domains for user baha
+2025-02-13 00:25:44,006 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:25:44,014 - domain_monitor_be - DEBUG - Saved 5 domains for user baha
+2025-02-13 00:25:49,770 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:25:49,777 - domain_monitor_be - DEBUG - Loaded 5 domains for user baha
+2025-02-13 00:26:03,003 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:26:03,003 - domain_monitor_be - DEBUG - Loaded 5 domains for user baha
+2025-02-13 00:26:28,309 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:26:28,315 - domain_monitor_be - DEBUG - Loaded 5 domains for user baha
+2025-02-13 00:26:32,867 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:26:32,869 - domain_monitor_be - DEBUG - Loaded 5 domains for user baha
+2025-02-13 00:26:33,467 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:26:33,474 - domain_monitor_be - DEBUG - Saved 6 domains for user baha
+2025-02-13 00:26:55,992 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:26:55,994 - domain_monitor_be - DEBUG - Loaded 6 domains for user baha
+2025-02-13 00:26:56,411 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:26:56,417 - domain_monitor_be - DEBUG - Saved 7 domains for user baha
+2025-02-13 00:27:00,232 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:27:00,235 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:27:09,265 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:27:09,268 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:27:09,270 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:27:09,280 - domain_monitor_be - DEBUG - Saved 6 domains for user baha
+2025-02-13 00:27:11,325 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:27:11,330 - domain_monitor_be - DEBUG - Loaded 6 domains for user baha
+2025-02-13 00:27:17,203 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:27:17,205 - domain_monitor_be - DEBUG - Loaded 6 domains for user baha
+2025-02-13 00:27:34,188 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:27:34,192 - domain_monitor_be - DEBUG - Loaded 6 domains for user baha
+2025-02-13 00:27:35,380 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:27:35,384 - domain_monitor_be - DEBUG - Saved 7 domains for user baha
+2025-02-13 00:27:38,875 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:27:38,878 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:28:06,827 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:28:06,829 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:28:11,546 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:28:11,551 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:28:21,296 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:28:21,303 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:28:22,103 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:28:22,109 - domain_monitor_be - DEBUG - Saved 8 domains for user baha
+2025-02-13 00:28:26,275 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:28:26,275 - domain_monitor_be - DEBUG - Loaded 8 domains for user baha
+2025-02-13 00:28:33,580 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:28:33,584 - domain_monitor_be - DEBUG - Loaded 8 domains for user baha
+2025-02-13 00:28:33,586 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:28:33,590 - domain_monitor_be - DEBUG - Saved 7 domains for user baha
+2025-02-13 00:28:35,122 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:28:35,124 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:28:35,631 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:28:35,633 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:28:45,288 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:28:45,290 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:29:30,098 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:29:30,100 - domain_monitor_be - DEBUG - Loaded 7 domains for user baha
+2025-02-13 00:29:30,988 - domain_monitor_be - INFO - Saving domains for user: baha
+2025-02-13 00:29:30,992 - domain_monitor_be - DEBUG - Saved 8 domains for user baha
+2025-02-13 00:29:35,084 - domain_monitor_be - INFO - Loading domains for user: baha
+2025-02-13 00:29:35,084 - domain_monitor_be - DEBUG - Loaded 8 domains for user baha

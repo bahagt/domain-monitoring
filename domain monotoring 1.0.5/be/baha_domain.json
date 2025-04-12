@@ -1,0 +1,50 @@
+[
+    {
+        "domain": "google.com",
+        "status": "Up",
+        "ssl_expiration": "2025-04-14",
+        "ssl_issuer": "Google Trust Services"
+    },
+    {
+        "domain": "google.co.il",
+        "status": "Up",
+        "ssl_expiration": "2025-04-14",
+        "ssl_issuer": "Google Trust Services"
+    },
+    {
+        "domain": "oracle.com",
+        "status": "Up",
+        "ssl_expiration": "2025-02-25",
+        "ssl_issuer": "DigiCert Inc"
+    },
+    {
+        "domain": "python.org",
+        "status": "Up",
+        "ssl_expiration": "2025-04-04",
+        "ssl_issuer": "Let's Encrypt"
+    },
+    {
+        "domain": "youtube.com",
+        "status": "Up",
+        "ssl_expiration": "2025-04-14",
+        "ssl_issuer": "Google Trust Services"
+    },
+    {
+        "domain": "sport5.co.il",
+        "status": "Up",
+        "ssl_expiration": "2025-11-07",
+        "ssl_issuer": "DigiCert Inc"
+    },
+    {
+        "domain": "tcb.ac.il",
+        "status": "Up",
+        "ssl_expiration": "2025-04-11",
+        "ssl_issuer": "Let's Encrypt"
+    },
+    {
+        "domain": "linkedin.com",
+        "status": "Up",
+        "ssl_expiration": "2025-04-14",
+        "ssl_issuer": "DigiCert Inc"
+    }
+]
